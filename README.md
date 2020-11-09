@@ -1,3 +1,3 @@
 # Watercolour Website
  Implementation of sliding text using HTML, CSS, Javascript.
- ![screenshot](/images/screenshot.jpg)
+ ![screenshot](https://github.com/lcyap/Watercolour-Website/blob/main/images/screenshot.JPG)
